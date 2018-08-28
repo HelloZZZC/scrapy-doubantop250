@@ -99,8 +99,8 @@ USER_AGENT = [
 ]
 
 #mysql connection setting example
-MYSQL_HOST = '127.0.0.1';
-MYSQL_DBNAME = 'douban_dev';
-MYSQL_USER = 'root';
-MYSQL_PASSWORD = '';
-MYSQL_PORT = '3306'; 
+MYSQL_HOST = 'YOUT_DB_HOST';
+MYSQL_DBNAME = 'YOUR_DB_NAME';
+MYSQL_USER = 'YOUR_DB_USER';
+MYSQL_PASSWORD = 'YOUR_DB_PW';
+MYSQL_PORT = 'YOUR_DB_PORT'; 
